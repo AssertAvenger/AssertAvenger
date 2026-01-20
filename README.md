@@ -60,36 +60,11 @@
 
 ---
 
-## Professional Journey
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/2025-Present-6C63FF?style=for-the-badge" /><br/>
-<strong>Luxury Escapes</strong><br/>
-Lead SWE - Test Platform<br/>
-<sub>Sydney, Australia</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/2024-2025-00D9FF?style=for-the-badge" /><br/>
-<strong>WooliesX</strong><br/>
-Senior Quality Engineer<br/>
-<sub>Sydney, Australia</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/2022-2024-FF6B6B?style=for-the-badge" /><br/>
-<strong>Paylab</strong><br/>
-Automation Test Lead<br/>
-<sub>Sydney, Australia</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/2013-2022-43B02A?style=for-the-badge" /><br/>
-<strong>Commonwealth Bank</strong><br/>
-Senior Test Engineer<br/>
-<sub>Sydney & Bangalore</sub>
-</td>
-</tr>
-</table>
-
+## Where I've Worked
+![Luxury Escapes](https://img.shields.io/badge/Luxury_Escapes-Lead_SWE-6C63FF?style=flat-square)
+![WooliesX](https://img.shields.io/badge/WooliesX-Senior_QE-00D9FF?style=flat-square)
+![Paylab](https://img.shields.io/badge/Paylab-Test_Lead-FF6B6B?style=flat-square)
+![CBA](https://img.shields.io/badge/Commonwealth_Bank-9+_Years-FFCC00?style=flat-square)
 ---
 
 ## What I Am Up To
@@ -101,15 +76,8 @@ Senior Test Engineer<br/>
 
 ---
 
-## Lets Connect
-
-<div align="center">
-
-**I am always interested in discussing test automation, developer experience, and building quality-first engineering cultures.**
-
 [![LinkedIn](https://img.shields.io/badge/Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franklinfrancis7)
 
-</div>
 
 ---
 
