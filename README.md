@@ -50,26 +50,7 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssertAvenger&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssertAvenger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AssertAvenger&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AssertAvenger&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
 
 ## Contribution Graph
 
@@ -80,13 +61,34 @@
 ---
 
 ## Professional Journey
-
-| Company | Role | Duration |
-|---------|------|----------|
-| Luxury Escapes | Lead SWE - Test Platform | 2025 - Present |
-| WooliesX | Senior Quality Engineer | 2024 - 2025 |
-| Paylab | Automation Test Lead | 2022 - 2024 |
-| Commonwealth Bank | Senior Test Engineer | 2013 - 2022 |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2025-Present-6C63FF?style=for-the-badge" /><br/>
+<strong>Luxury Escapes</strong><br/>
+Lead SWE - Test Platform<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2024-2025-00D9FF?style=for-the-badge" /><br/>
+<strong>WooliesX</strong><br/>
+Senior Quality Engineer<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2022-2024-FF6B6B?style=for-the-badge" /><br/>
+<strong>Paylab</strong><br/>
+Automation Test Lead<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2013-2022-43B02A?style=for-the-badge" /><br/>
+<strong>Commonwealth Bank</strong><br/>
+Senior Test Engineer<br/>
+<sub>Sydney & Bangalore</sub>
+</td>
+</tr>
+</table>
 
 ---
 
