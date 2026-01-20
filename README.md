@@ -15,23 +15,10 @@
 ---
 
 ## About Me
-```typescript
-const franklin = {
-location: "Sydney, Australia",
-role: "Lead Software Engineer - Test Platform",
-company: "Luxury Escapes",
-experience: "12+ years in Software Quality Engineering",
-focus: [
-"Building end-to-end quality as an engineering platform",
-"Testing infrastructure and developer experience",
-"Helping teams ship fast with confidence"
-],
-currentlyLearning: ["Next.js", "Open Source Contributions"],
-funFact: "I taught Physics and Math before writing my first test case!"
-};
-```
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f78eb07c-e6de-4780-9266-a1c5972af922" alt="About Franklin" width="600"/>
+</div>
 
----
 
 ## Tech Stack
 
