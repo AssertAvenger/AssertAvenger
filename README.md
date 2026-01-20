@@ -1,15 +1,17 @@
 # Franklin Francis
 
-**Lead Software Engineer** @ Luxury Escapes  
+**Lead Software Engineer — Test Platform** @ Luxury Escapes  
 Sydney, Australia
 
 ---
 
 ### About
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f78eb07c-e6de-4780-9266-a1c5972af922" alt="About Franklin" width="600"/>
-</div>
+Software Quality Engineering leader with **12+ years** of experience building end-to-end quality as an engineering platform. I work across testing infrastructure, developer experience, and product reliability — helping teams ship fast with confidence.
+
+- 🔧 Currently leading E2E quality engineering initiatives
+- 🎓 Former Physics & Math teacher turned engineer
+- 🌏 Worked across fintech, retail & travel industries
 
 ---
 
@@ -17,27 +19,19 @@ Sydney, Australia
 
 <div align="center">
 
-#### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs&theme=dark" alt="Languages" />
 
-#### Testing & Automation
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
 
-#### CI/CD & DevOps
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cypress,selenium,postman&theme=dark" alt="Testing" />
 
-#### Tools
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm&theme=dark" alt="DevOps" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Tools" />
 
 </div>
 
