@@ -60,25 +60,52 @@
 
 ---
 
-## Where I've Worked
-![Luxury Escapes](https://img.shields.io/badge/Luxury_Escapes-Lead_SWE-6C63FF?style=flat-square)
-![WooliesX](https://img.shields.io/badge/WooliesX-Senior_QE-00D9FF?style=flat-square)
-![Paylab](https://img.shields.io/badge/Paylab-Test_Lead-FF6B6B?style=flat-square)
-![CBA](https://img.shields.io/badge/Commonwealth_Bank-9+_Years-FFCC00?style=flat-square)
+
+
+## Professional Journey
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2025-Present-6C63FF?style=for-the-badge" /><br/>
+<strong>Luxury Escapes</strong><br/>
+Lead SWE - Test Platform<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2024-2025-00D9FF?style=for-the-badge" /><br/>
+<strong>WooliesX</strong><br/>
+Senior Quality Engineer<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2022-2024-FF6B6B?style=for-the-badge" /><br/>
+<strong>Paylab</strong><br/>
+Automation Test Lead<br/>
+<sub>Sydney, Australia</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/2013-2022-43B02A?style=for-the-badge" /><br/>
+<strong>Commonwealth Bank</strong><br/>
+Senior Test Engineer<br/>
+<sub>Sydney & Bangalore</sub>
+</td>
+</tr>
+</table>
+</div>
 ---
 
-## What I Am Up To
+## What I'm Up To
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=500&height=120&lines=%24+building+--scalable-test-infrastructure;%24+contributing+--open-source-tools;%24+learning+--nextjs+--personal-projects;%24+sharing+--shift-left+--cicd-practices" alt="Current Status" />
+</div>
 
-- Building scalable test infrastructure at Luxury Escapes
-- Contributing to open source testing tools
-- Exploring Next.js for personal projects
-- Sharing knowledge about shift-left testing and CI/CD best practices
 
 ---
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franklinfrancis7)
 
-
+</div>
 ---
 
 <div align="center">
