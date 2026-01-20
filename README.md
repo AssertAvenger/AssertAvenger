@@ -97,7 +97,10 @@ Senior Test Engineer<br/>
 
 ## What I'm Up To
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=500&height=120&lines=%24+building+--scalable-test-infrastructure;%24+contributing+--open-source-tools;%24+learning+--nextjs+--personal-projects;%24+sharing+--shift-left+--cicd-practices" alt="Current Status" />
+![Building](https://img.shields.io/badge/🔧_Building-Scalable_Test_Infrastructure_@_Luxury_Escapes-6C63FF?style=for-the-badge)
+![Contributing](https://img.shields.io/badge/🌱_Contributing-Open_Source_Testing_Tools-00D9FF?style=for-the-badge)
+![Learning](https://img.shields.io/badge/📚_Learning-Next.js_&_Personal_Projects-FF6B6B?style=for-the-badge)
+![Sharing](https://img.shields.io/badge/💡_Sharing-Shift--Left_Testing_&_CI/CD_Best_Practices-43B02A?style=for-the-badge)
 </div>
 
 
