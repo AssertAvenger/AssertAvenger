@@ -15,7 +15,7 @@
 ---
 
 ## About Me
-typescript
+```typescript
 const franklin = {
 location: "Sydney, Australia",
 role: "Lead Software Engineer - Test Platform",
@@ -28,7 +28,7 @@ focus: [
 ],
 currentlyLearning: ["Next.js", "Open Source Contributions"],
 funFact: "I taught Physics and Math before writing my first test case!"
-};
+};```
 
 ---
 
@@ -65,12 +65,12 @@ funFact: "I taught Physics and Math before writing my first test case!"
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssertAvenger&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AssertAvenger&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssertAvenger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssertAvenger&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=AssertAvenger&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
 </div>
 
 ---
