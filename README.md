@@ -1,17 +1,32 @@
 # Franklin Francis
 
-**Lead Software Engineer — Test Platform** @ Luxury Escapes  
+**Lead Software Engineer**
 Sydney, Australia
 
 ---
 
 ### About
 
-Software Quality Engineering leader with **12+ years** of experience building end-to-end quality as an engineering platform. I work across testing infrastructure, developer experience, and product reliability — helping teams ship fast with confidence.
-
-- 🔧 Currently leading E2E quality engineering initiatives
-- 🎓 Former Physics & Math teacher turned engineer
-- 🌏 Worked across fintech, retail & travel industries
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  $ whoami                                                        │
+│  > franklin_francis                                              │
+│                                                                  │
+│  $ cat role.txt                                                  │
+│  > Lead SWE @ Luxury Escapes                     │
+│                                                                  │
+│  $ echo $EXPERIENCE                                              │
+│  > 12+ years breaking things before users do                     │
+│                                                                  │
+│  $ cat superpowers.txt                                           │
+│  > Test Infrastructure | Developer Experience | CI/CD            │
+│                                                                  │
+│  $ fortune                                                       │
+│  > "I taught Physics before I taught machines to test code"      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -38,6 +53,8 @@ Software Quality Engineering leader with **12+ years** of experience building en
 ---
 
 ### Professional Journey
+
+
 
 <div align="center">
 <table>
@@ -70,15 +87,19 @@ Senior Test Engineer<br/>
 </table>
 </div>
 
+
+
 ---
 
 ### Currently
 
+
 > 🔧 Building scalable test infrastructure at **Luxury Escapes**
->
+> 
 > 🌱 Contributing to open source testing tools
 >
 > 📚 Exploring Next.js for personal projects
+
 
 ---
 
