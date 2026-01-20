@@ -28,7 +28,8 @@ focus: [
 ],
 currentlyLearning: ["Next.js", "Open Source Contributions"],
 funFact: "I taught Physics and Math before writing my first test case!"
-};```
+};
+```
 
 ---
 
