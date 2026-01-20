@@ -65,7 +65,7 @@ funFact: "I taught Physics and Math before writing my first test case!"
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssertAvenger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AssertAvenger&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssertAvenger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="180"/>
 </div>
 
