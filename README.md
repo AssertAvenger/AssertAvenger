@@ -113,3 +113,4 @@ Senior Test Engineer<br/>
 ---
 
 ![](https://komarev.com/ghpvc/?username=AssertAvenger&color=6C63FF&style=flat-square&label=Profile+Views)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAssertAvenger&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique+Visitors&edge_flat=true)
