@@ -43,12 +43,12 @@ Sydney, Australia
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm&theme=dark" alt="DevOps" />
-<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+<img src="https://cdn.simpleicons.org/circleci" height="45" alt="CircleCI" />
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Tools" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://cdn.simpleicons.org/cursor" height="45" alt="CircleCI" />
 
 </div>
 
