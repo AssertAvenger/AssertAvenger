@@ -14,7 +14,7 @@ Sydney, Australia
 │  > franklin_francis                                              │
 │                                                                  │
 │  $ cat role.txt                                                  │
-│  > Lead SWE @ Luxury Escapes                     │
+│  > Lead SWE @ Luxury Escapes                                     │
 │                                                                  │
 │  $ echo $EXPERIENCE                                              │
 │  > 12+ years breaking things before users do                     │
@@ -34,19 +34,21 @@ Sydney, Australia
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs&theme=dark" alt="Languages" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cypress,selenium,postman&theme=dark" alt="Testing" />
+<img src="https://skillicons.dev/icons?i=cypress,jest,vitest,postman&theme=dark" alt="Testing" />
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm&theme=dark" alt="DevOps" />
+<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 
 </div>
 
